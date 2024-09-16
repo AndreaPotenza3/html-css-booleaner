@@ -52,3 +52,6 @@ thead{
 table{
     border-collapse: collapse;
 }
+td{
+    min-width: 200px;
+}
