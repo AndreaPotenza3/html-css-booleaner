@@ -19,10 +19,14 @@ h1{
     font-size: 10px;
 }
 thead{
-    background-color:rgb(44, 153, 226)
+    background-color:rgb(43, 97, 168)
+}
+thead{
+    color: white;
 }
 .crule{
     background-color: deepskyblue;
+    color: white;
 }
 .monitor{
     background-image: url('../img/monitor.jpg');
@@ -40,5 +44,8 @@ thead{
     color: rgb(93, 170, 233);
 }
 .credit{
-    color:lightgray
+    color:gray
+}
+table{
+    border-collapse: collapse;
 }
