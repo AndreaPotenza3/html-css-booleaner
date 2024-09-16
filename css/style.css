@@ -18,3 +18,9 @@ h1{
 .photo-description{
     font-size: 10px;
 }
+thead{
+    background-color:rgb(44, 153, 226)
+}
+.crule{
+    background-color: deepskyblue;
+}
