@@ -1,0 +1,20 @@
+.title{
+    background-image: url('../img/pattern.png');
+    background-color:cornflowerblue;
+    background-size: auto;
+    height: 180px;
+}
+.title-imge{
+    height: 50px;
+    position: relative;
+    bottom: -115px;
+}
+h1{
+    margin-bottom: 5px;
+}
+.credit{
+    margin-top: 5px;
+}
+.photo-description{
+    font-size: 10px;
+}
