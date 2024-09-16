@@ -24,3 +24,14 @@ thead{
 .crule{
     background-color: deepskyblue;
 }
+.monitor{
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    height: auto;
+}
+.img2{
+    background-image: url('../img/graph.jpg');
+    width:auto;
+    background-repeat: no-repeat;
+    color: white;
+}
